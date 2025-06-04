@@ -1,0 +1,81 @@
+{
+    "id": "c28f4440-8b05-80fc-8006-45f8407d528d",
+    "type": "board",
+    "name": "Board",
+    "blocked": false,
+    "hidden": false,
+    "visible": true,
+    "proportionLock": false,
+    "constraintsHorizontal": null,
+    "constraintsVertical": null,
+    "borderRadius": 20,
+    "borderRadiusTopLeft": 20,
+    "borderRadiusTopRight": 20,
+    "borderRadiusBottomRight": 20,
+    "borderRadiusBottomLeft": 20,
+    "opacity": null,
+    "blendMode": "normal",
+    "shadows": [],
+    "blur": null,
+    "exports": null,
+    "x": 1017,
+    "y": 0,
+    "parentX": 1017,
+    "parentY": 0,
+    "boardX": 1017,
+    "boardY": 0,
+    "width": 412,
+    "height": 914,
+    "bounds": {
+        "x": 1017,
+        "y": 0,
+        "width": 412,
+        "height": 914.0000000000001
+    },
+    "center": {
+        "x": 1223,
+        "y": 456.99999999999994
+    },
+    "rotation": 0,
+    "flipX": false,
+    "flipY": false,
+    "fills": [
+        {
+            "fillColorGradient": {
+                "type": "linear",
+                "startX": 0.055176622429876344,
+                "startY": 0.03447227064161229,
+                "endX": 0.9534041704512308,
+                "endY": 0.9761876060296764,
+                "width": 1,
+                "stops": [
+                    {
+                        "color": "#070707",
+                        "opacity": 0.9555555555555556,
+                        "offset": 0.1
+                    },
+                    {
+                        "color": "#455176",
+                        "opacity": 0.9148148148148147,
+                        "offset": 0.43
+                    },
+                    {
+                        "color": "#6e81bd",
+                        "opacity": 0.8888888888888888,
+                        "offset": 0.82
+                    }
+                ]
+            }
+        }
+    ],
+    "strokes": [],
+    "layoutChild": null,
+    "layoutCell": null,
+    "interactions": [],
+    "grid": null,
+    "flex": null,
+    "guides": null,
+    "rulerGuides": [],
+    "horizontalSizing": "fix",
+    "verticalSizing": "fix"
+}

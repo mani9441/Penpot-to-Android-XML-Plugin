@@ -1,0 +1,11 @@
+{
+  "name": "Android XML Exporter",
+  "description": "Exports Penpot designs as Android XML code.",
+  "code": "/plugin.js",
+  "icon": "/icon.png",
+  "permissions": [
+    "content:read",
+    "user:read",
+    "allow:downloads"
+  ]
+}
